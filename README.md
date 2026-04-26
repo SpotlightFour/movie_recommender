@@ -1,4 +1,4 @@
-# 🎬 Movie Recommender System (Movie Recommender)
+# 🎬 movie_recommender
 
 > A full-stack AI-powered movie recommendation system integrating a backend recommendation engine, a frontend user interface, and a database.
 
