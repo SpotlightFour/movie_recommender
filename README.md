@@ -20,7 +20,7 @@ pip install -r requirements.txt
 > **Note**  
 > Due to GitHub’s file size limit (max 100 MB), the large language model files cannot be uploaded via Git directly. Please download them manually following the steps below.
 
-1. Visit [Qwen2.5-7B-Instruct](https://huggingface.co/Qwen/Qwen2.5-0.5B) and download the following files (or replace with another model):
+1. Visit [Qwen2.5-0.5B](https://huggingface.co/Qwen/Qwen2.5-0.5B) and download the following files (or replace with another model):
    - `model.safetensors` (main model file, approx. 942 MB)
    - Other configuration files (such as `config.json`, `tokenizer.json`, etc.)
 
